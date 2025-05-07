@@ -1,2 +1,2 @@
 # BLAKE2
-Blake2s without outsorced repositories
+Blake2s without existing repositories
